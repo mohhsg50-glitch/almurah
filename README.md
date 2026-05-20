@@ -26,7 +26,7 @@
   <a href="https://almarah.vercel.app" target="_blank">
     <img alt="Live Demo" src="https://img.shields.io/badge/demo-LIVE-8B0000?style=for-the-badge&logo=vercel">
   </a>
-  <a href="https://github.com/HSG116/almarah">
+  <a href="https://github.com/mohhsg50-glitch/almurah">
     <img alt="GitHub" src="https://img.shields.io/badge/source-GitHub-1a1a2e?style=for-the-badge&logo=github">
   </a>
   <a href="#">
@@ -592,7 +592,7 @@ Each status transition triggers:
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone https://github.com/HSG116/almarah.git
+git clone https://github.com/mohhsg50-glitch/almurah.git
 cd almarah
 npm install
 ```
@@ -720,7 +720,7 @@ All legal content is configurable through the Admin Settings panel.
   <a href="https://discord.com/users/1416151331965767810">💬 Join Discord</a> ·
   <a href="https://x.com/Moh_HSG">🐦 Follow on X</a>
   <br><br>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HSG116/almarah">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/HSG116/almarah">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/HSG116/almarah?style=social">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mohhsg50-glitch/almurah">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mohhsg50-glitch/almurah">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/mohhsg50-glitch/almurah?style=social">
 </p>
